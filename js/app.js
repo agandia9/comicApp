@@ -1,1 +1,1 @@
-angular.module('comicApp',[])
+angular.module('comicApp',['comicService'])
