@@ -1,8 +1,15 @@
-.wall{
+*{
+	font-family: 'Dosis', sans-serif;
+}
+.wall {
 	position: absolute;
 	height: 100%;
 	width: 100%;
 	opacity : 0.3;
 	background-image: url("http://4.bp.blogspot.com/-lh3YGssTGTA/TiMq5jbhn6I/AAAAAAAACNU/NVCdxLzNeLY/s1600/marvel_comics_wallpaper_6.jpg");
 	
+}
+
+.container{
+	position: relative;
 }

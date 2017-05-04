@@ -1,1 +1,1 @@
-angular.module('comicApp',['comicService'])
+angular.module('comicApp',['comicService', 'ngRoute'])
